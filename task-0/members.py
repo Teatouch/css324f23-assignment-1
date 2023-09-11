@@ -1,4 +1,4 @@
 [
-    {"name": "Cholwich Nattee", "sid": "6422771111"},
-    {"name": "Cholwich Nattee", "sid": "6422771111"},
+    {"name": "Teatouch Sukpluem", "sid": "6422770253"},
+    {"name": "Kamonrat Potha", "sid": "6422782746"},
 ]
